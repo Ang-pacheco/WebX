@@ -1,0 +1,75 @@
+h1{
+    color: blueviolet;
+    font-size: 40px;
+    font-family: "Momo Signature";
+    
+}
+
+p1 {
+    color: blueviolet;
+    font-size: 25px;
+    font-family: lindo;
+    font-weight: 800;
+}
+a {
+    text-decoration: none;
+}
+p {
+    
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+    letter-spacing: normal;
+    text-transform: capitalize;
+
+}
+
+span{
+    color: red;
+}
+h2{
+    
+    color:brown;
+    font-size: 30px;
+
+}
+p2{
+    color:black;
+    font-size: 20px;
+
+
+}
+div{
+    font-weight: 300;
+    height: max-content;
+}
+
+.prioridad{
+
+    color: green
+}
+.lista{
+    color: blue ;
+}
+.aviso{
+    text-align: left;
+    color: red;
+    font-weight: bold;
+    font-size: 15px;
+    text-transform: uppercase;
+    text-decoration:underline;
+}
+
+.tituloDelChat{
+    text-align: center;
+    color: black;
+}
+.conversacion_YO{
+    text-align: right;
+}
+.conversacion_EL{
+    text-align: left;
+}
+
