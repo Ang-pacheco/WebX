@@ -2,6 +2,8 @@ h1{
     color: blueviolet;
     font-size: 40px;
     font-family: "Momo Signature";
+    background-color: navajowhite;
+    padding: 20px;
     
 }
 
@@ -73,3 +75,27 @@ div{
     text-align: left;
 }
 
+.formulario{
+    background: burlywood;
+    padding: 25px 5px;
+    
+}
+input{
+    padding: 1.5%;
+    width: 95%;
+    background: wheat;
+    color:black;
+    margin: 5px;
+
+}
+.color_caja{
+    width: 10%;
+    padding: 0;
+    margin-left: 40%;
+}
+.enviar{
+    letter-spacing: 4px;
+    background: grey;
+    text-transform: capitalize;
+    color: azure;
+}
